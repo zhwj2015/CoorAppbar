@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group_1"
+        android:menuCategory="container">
+        <item android:id="@+id/signin" android:title="signin"></item>
+        <item android:id="@+id/signin2" android:title="signin2"></item>
+        <item android:id="@+id/signin3" android:title="signin3"></item>
+        <item android:id="@+id/signin4" android:title="signin4"></item>
+        <item android:id="@+id/signin5" android:title="signin5"></item>
+
+    </group>
+    <group
+        android:id="@+id/group_2"
+        android:menuCategory="container">
+        <item android:title="MyFeed"></item>
+    </group>
+</menu>
